@@ -1,0 +1,1 @@
+print("Hello, I'm Ima and i'm", 18, "years old")

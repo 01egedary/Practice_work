@@ -1,0 +1,6 @@
+x = str("Hi")    
+y = int(18)   
+z = float(6.7)  
+print (x)
+print (y)
+print (z)

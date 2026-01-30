@@ -1,0 +1,1 @@
+print("Privet"); print("Kak dela?"); print("Che delaesh!")
